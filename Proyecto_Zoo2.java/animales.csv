@@ -1,0 +1,13 @@
+ID,Nombre,Edad,Consumo,Tipo
+1,Gato,2,3.0,Mamifero
+2,Loro,1,2.12,Ave
+3,Dragon de comodo,4,3.82,Reptil
+4,Perro,4,2.0,Mamifero
+5,Aguila,1,2.0,Ave
+7,Iguana,2,1.83,Reptil
+8,Mula,5,3.0,Mamifero
+9,Canario,1,0.8,Ave
+10,Serpiente,2,1.2,Reptil
+11,Elefante,12,5.0,Mamifero
+12,Cocodrilo,3,4.0,Reptil
+13,Lagarto,6,2.0,Reptil
